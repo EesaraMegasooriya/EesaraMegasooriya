@@ -28,10 +28,10 @@
 <table style="border-collapse: collapse;">
   <tr>
     <td style="padding-right: 20px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=eesaramegasooriya&show_icons=true&theme=tokyonight" alt="Thiyara's GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=eesaramegasooriya&show_icons=true&theme=tokyonight" alt="Eesara's GitHub stats" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=eesaramegasooriya&theme=tokyonight" alt="Thiyara's GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=eesaramegasooriya&theme=tokyonight" alt="Eesara's GitHub Streak" />
     </td>
   </tr>
 </table>
