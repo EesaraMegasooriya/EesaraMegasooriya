@@ -16,7 +16,7 @@
 </div>
 
 <br>
-<p align="center">Visit My Website : https://eesaramegasooriya.github.io/ItsEesara</p>
+<p align="center">Visit My Website : https://eesaralk.netlify.app</p>
 
 <br><br><hr>
 <h3 align="center" > Languages and Tools ⚙️ </h3><br>
