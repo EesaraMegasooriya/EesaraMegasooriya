@@ -4,8 +4,9 @@
 <h4 align="center">A passionate frontend developer from SriLanka. I’m currently an undergraduate at SLIIT, where I'm deepening my knowledge in Web Development, specifically learning <b>ReactJs</b> and <b>MERN Stack</b>. I thrive in dynamic environments that allow me to apply my skills and expertise while continuously learning and growing.</h4>
 <br>
 <div>
-<img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+<img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXRtMWEzdXp4eTR5YzA2bDZ4cDNhc2x2dWxoMnBpbDByd3Z0cWZwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 <br>
+
 
 - 👋 Hi, I’m Eesara Megasooriya
 - 💻 I’m interested in **Web Devoloping**
