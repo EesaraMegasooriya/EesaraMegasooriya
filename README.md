@@ -36,12 +36,24 @@
     <td>
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eesaramegasooriya&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="eesaramegasooriya" />
     </td>
-    
+    <td>
+      <img align="left" src="https://nirzak-streak-stats.vercel.app/?user=eesaramegasooriya&theme=dark&hide_border=false" alt="eesaramegasooriya" />
+    </td>
   </tr>
+  
 </table>
+
 <!---
 EesaraMegasooriya/EesaraMegasooriya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<br/>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=eesaramegasooriya&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=eesaramegasooriya&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
