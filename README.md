@@ -48,12 +48,12 @@ EesaraMegasooriya/EesaraMegasooriya is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 <br/>
-
+<p align ="center">
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=eesaramegasooriya&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=eesaramegasooriya&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+</p>
 
