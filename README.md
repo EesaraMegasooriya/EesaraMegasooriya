@@ -26,14 +26,17 @@
 </p>
 <h3> My Statistics </h3>
 
+
+
 <table style="border-collapse: collapse;">
   <tr>
     <td style="padding-right: 20px;">
       <img src="https://github-readme-stats.vercel.app/api?username=eesaramegasooriya&show_icons=true&theme=tokyonight" alt="Eesara's GitHub stats" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=eesaramegasooriya&theme=tokyonight" alt="Eesara's GitHub Streak" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eesaramegasooriya&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="eesaramegasooriya" />
     </td>
+    
   </tr>
 </table>
 <!---
