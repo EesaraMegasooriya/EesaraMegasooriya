@@ -22,7 +22,7 @@
 <br><br><hr>
 <h3 align="center" > Languages and Tools ⚙️ </h3><br>
 <p align ="center">
-<img src="https://skillicons.dev/icons?i=css,androidstudio,react,html,php,js,css,scss,mongodb,mysql,nodejs,git,c,cpp,discord,figma,github,java,kotlin,vscode,vite,replit,spring," />
+<img src="https://skillicons.dev/icons?i=css,androidstudio,react,html,php,js,css,scss,mongodb,mysql,nodejs,git,c,cpp,figma,github,java,kotlin,vscode,vite,replit,spring," />
 </p>
 <h3> My Statistics </h3>
 
